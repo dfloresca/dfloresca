@@ -6,7 +6,7 @@ I am a new engineer that just finished a Software Engineering immersive program 
 - 🌱 I’m currently learning more about React and Django
 - 💞️ I’m looking to collaborate on anything I can in order to further my knowledge and expertiese
 - ✉️ Reach me via Email: [dfloresca@gmail.com](mailto:dfloresca@gmail.com)
-- 🖇️ Find me on LinkedIn [linkedin.com/dfloresca](linkedin.com/dfloresca)
+- 🖇️ Find me on LinkedIn [linkedin.com/dfloresca](https://www.linkedin.com/in/danielfloresca/))
 
 ## My Skills  
 <table><tr><td valign="top" width="33%">
